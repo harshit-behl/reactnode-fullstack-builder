@@ -4,6 +4,8 @@
 
 **URL**: https://lovable.dev/projects/4596c303-300c-4525-9d72-7cceba615598
 
+deployed url : https://vercel.com/harshit-behls-projects-1bce3315/reactnode-fullstack-builder/AaxPCk1PJMbQcf3SGintHQXDndbA
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
